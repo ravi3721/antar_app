@@ -59,7 +59,7 @@ class _StartPageViewState extends State<StartPageView> {
                 child: Column(children: [
                   Center(
                     child: TextTitle(
-                      title: "WELCOME",
+                      title: "ANTAR APP",
                     ),
                   ),
                   Padding(
@@ -70,7 +70,7 @@ class _StartPageViewState extends State<StartPageView> {
                     /// 40.0 - 5.0
                     child: Center(
                       child: Text(
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "Aplikasi pesan antar makanan favorit anda",
                         style: TextStyle(color: Colors.white60),
                         textAlign: TextAlign.center,
                       ),
